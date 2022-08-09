@@ -1,0 +1,4 @@
+- Hello, I'm Chris.
+- I developed FPS Wizard and a couple games in Unreal Engine. (All those are hosted on Azure DevOps.)
+- I'm currently transitioning from game development to web development; I just finished a certification in HTML/CSS and am moving on to Javascript.
+- I'm not super active on social media, but you can reach me via LinkedIn (https://www.linkedin.com/in/chris-simms-b288bab0/) or Twitter. (https://twitter.com/cwsimms)
